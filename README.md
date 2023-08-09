@@ -8,3 +8,5 @@ I just got a tongue piercing today, it was way less painful then the two eyebrow
 Overall, I had a really fun day. :)
 
 Aug 9, 2023
+
+WOOHOO
