@@ -1,5 +1,5 @@
 # hello-world
-My first repository on GitHub. :)
+My first repository on GitHub.
 
 Right now, I'm just figuring out the mechanics of GitHub so that I can better prepare for College and Computer Science. I'm having a lot of fun so far, and I don't know what I was so worried about when I decided to finally tackle GitHub.
 
